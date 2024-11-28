@@ -1,0 +1,11 @@
+{
+    "app_name": "Orbital Pong",
+    "orientation": "portrait",
+    "version": "1.0",
+    "files": [
+        "main.py",
+        "orbital_pong.py",
+        "PressStart2P.ttf",
+        "asteroid.jpg"
+    ]
+}
