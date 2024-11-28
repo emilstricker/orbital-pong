@@ -33,7 +33,9 @@ python orbital_pong.py
 ## Play Online
 
 You can play the game directly in your browser (including mobile devices) at:
-`https://[your-github-username].github.io/orbital-pong`
+`https://emilstricker.github.io/orbital-pong`
+
+Note: The game may take a few moments to load in your browser.
 
 ## Development
 
