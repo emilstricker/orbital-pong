@@ -23,7 +23,7 @@ jobs:
           
       - name: Build with Pygbag
         run: |
-          python -m pygbag --build --app-name="Orbital Pong" --title="Orbital Pong" --icon=asteroid.jpg .
+          python -m pygbag --app_name "Orbital Pong" --title "Orbital Pong" --icon asteroid.jpg --build .
           
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
